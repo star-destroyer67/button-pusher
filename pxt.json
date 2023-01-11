@@ -1,0 +1,25 @@
+{
+    "name": "BUTTON PUSHER",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-gamejam-timer": "github:mrzebarth/pxt-gamejam-timer#84e96f5e55ee9682bf2f2652fee36f2bae51a257"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.11.37",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
